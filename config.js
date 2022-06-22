@@ -67,10 +67,10 @@ global.nameown = 'Tn_vams x Tn.error'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283894435611'],
   [''],
   [''],
-  ['6283894435611', Tn-vams', true]
+  [''],
+  ['6283894435611', Tn - vams', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
