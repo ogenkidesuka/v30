@@ -35,7 +35,7 @@ let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.documen
 }}
 handler.command = /^(pesan|balas)$/i
 handler.owner = true
-handler.limit = true
+handler.limit = false
 handler.premium = false
 handler.group = false
 handler.private = false
